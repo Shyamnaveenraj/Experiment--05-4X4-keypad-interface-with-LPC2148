@@ -1,12 +1,9 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
-Name : H.Syed Abdul Wasih
-
-Roll no : 212221240057
-
+Name : Shyam Naveen Raj
+Roll no : 212221230019
 Date of experiment : 04/11/2022
 
- 
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller:
 
 ## Aim: 
