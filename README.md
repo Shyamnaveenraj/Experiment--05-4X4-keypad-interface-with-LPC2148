@@ -1,7 +1,7 @@
 # Experiment--05-4X4-keypad-interface-with-LPC2148
 
 Name : Shyam Naveen Raj
-Roll no : 212221230019
+Roll no : 212221230099
 Date of experiment : 04/11/2022
 
 ### Interfacing a 4X4 keypad LPC2148 ARM 7 Microcontroller:
@@ -281,11 +281,13 @@ void LCD_init()
 }
 ~~~
 ## Output screen shots :
-### Display Off:
-![01](https://user-images.githubusercontent.com/91781810/199899764-80915431-53b7-497f-a7f3-d71ed5b49d12.jpg)
+### Display Of![01](https://user-images.githubusercontent.com/94882357/200181825-4f3a8355-79a4-4524-b922-911b280e9c9f.png)
+
 ### Display On:
-![02](https://user-images.githubusercontent.com/91781810/199899781-df8474e5-fa7b-4c56-a360-40305b5554f1.jpg)
+![02](https://user-images.githubusercontent.com/94882357/200181830-d3efa026-9031-4a89-beca-632484db0d5d.png)
+
 ### Circuit Diagram:
-![03](https://user-images.githubusercontent.com/91781810/199899795-76cd46f9-6f33-4cb1-ad77-08da5a256ae9.jpg)
+![03](https://user-images.githubusercontent.com/94882357/200181988-5763c316-e59c-47fd-a6ae-cd527f431fab.png)
+
 ## Result :
 Interfacing a keypad 4x4 is interfaced  with LPC2148
